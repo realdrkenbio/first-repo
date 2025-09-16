@@ -1,3 +1,3 @@
 # first-repo
 first repo for class
-# Hello GitHub
+# Hello GitHub This is my first repository!
